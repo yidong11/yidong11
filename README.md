@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning CS in CUHK.
 
 <!--
 **yidong11/yidong11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
